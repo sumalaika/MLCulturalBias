@@ -1,0 +1,2 @@
+# MLCulturalBias
+Cultural bias and bias in general in machine learning datasets is a known phenomenon. We ran a Birds of a Feather at the Women in Computing conference at the American University in Beirut (AUB) on Aug 12 – entitled “Removing Cultural Bias from Training DataSets for Machine Learning”.See https://developer.ibm.com/opentech/2017/08/15/removing-cultural-bias-training-datasets-machine-learning/
